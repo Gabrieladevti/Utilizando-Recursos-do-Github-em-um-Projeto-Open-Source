@@ -1,9 +1,5 @@
 # Utilizando-Recursos-do-Github-em-um-Projeto-Open-Source
 
-**Tema do Projeto: Explorando Recursos do GitHub em um Projeto Open Source**
-
-Neste projeto, vamos mergulhar no mundo do desenvolvimento colaborativo de código aberto e explorar as funcionalidades poderosas oferecidas pelo GitHub. Vou detalhar os principais tópicos e módulos relacionados a esse tema.
-
 ## Conteúdo do Projeto
 
 ### 1. Introdução ao GitHub
